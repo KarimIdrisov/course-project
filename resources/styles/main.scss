@@ -1,0 +1,12 @@
+@import "../layouts/base.scss";
+
+$primary: red;
+$secondary: blue;
+
+body {
+   font-family: Roboto, sans-serif;
+}
+
+.hello {
+   color: $secondary;
+}
