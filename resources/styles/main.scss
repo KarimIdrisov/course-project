@@ -7,6 +7,7 @@ $font-weight-medium: 500;
 
 @import "./uikit.scss";
 @import "../layouts/base.scss";
+@import "../styles/media.scss";
 
 // Functions
 @function toRem($size) {
@@ -17,3 +18,4 @@ $font-weight-medium: 500;
 @import '../components/header/header.scss';
 @import './elements.scss';
 @import '../components/site-nav/site-nav.scss';
+@import '../components/contacts/contacts.scss';
